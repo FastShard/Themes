@@ -2,7 +2,25 @@
 
 ![image](https://user-images.githubusercontent.com/117211251/204068505-ee1de7d1-0b0e-4cc4-ad58-4f2e172320dc.png)
 
-# Installation
+1. Set Theme
+
+    ```bash
+    fastshard hord
+    ```
+<br />
+
+# 🌼 Lotus
+
+![image](https://media.discordapp.net/attachments/1041482607059288136/1046554904426205366/image.png)
+
+1. Set Theme
+
+    ```bash
+    fastshard lotus
+    ```
+<br />
+
+# Themes Installation
 
 1. Install the Themes and the Binary
 
