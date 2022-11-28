@@ -11,7 +11,7 @@
 
 # 🌼 Lotus
 
-![image](https://media.discordapp.net/attachments/1041482607059288136/1046554904426205366/image.png)
+![image](https://media.discordapp.net/attachments/635625917623828520/1046578524355567697/image.png)
 
 1. Set Theme
 
