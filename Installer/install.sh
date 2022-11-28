@@ -12,7 +12,7 @@ rm -rf ~/Themes > /dev/null
 # Install Binary
 echo "🢒 Installing Binary"
 cd ~/ && curl -s https://raw.githubusercontent.com/FastShard/Binary/main/Binary/fastshard -o fastshard 
-sudo chmod +x fastshard > /dev/null
+sudo chmod +x ~/fastshard > /dev/null
 mv fastshard /usr/bin/ > /dev/null
 echo " "
 echo "🢒 ThemeSwitcher has been installed. Run it using 'fastshard <theme>' in your Terminal"
