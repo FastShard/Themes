@@ -1,4 +1,5 @@
 sudo rm -rf ~/.config/fastshard/ > /dev/null
+sudo rm -rf ~/fastshard
 
 # Create the Themes Directory
 echo "🢒 Creating Directories"
