@@ -6,7 +6,7 @@ mkdir ~/.config/fastshard > /dev/null
 
 # Install Themes
 echo "🢒 Installing Themes"
-cd ~/ && git clone https://github.com/FastShard/Themes && cd ~/Themes && cp -d * ~/.config/fastshard > /dev/null
+cd ~/ && git clone --quiet https://github.com/FastShard/Themes && cd ~/Themes && cp -d * ~/.config/fastshard > /dev/null
 rm -rf ~/Themes > /dev/null
 
 # Install Binary
