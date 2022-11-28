@@ -11,7 +11,7 @@ rm -rf ~/Themes > /dev/null
 
 # Install Binary
 echo "🢒 Installing Binary"
-curl -s https://raw.githubusercontent.com/FastShard/Binary/main/Binary/fastshard -o fastshard > /dev/null
+cd ~/ && curl -s https://raw.githubusercontent.com/FastShard/Binary/main/Binary/fastshard -o fastshard 
 sudo chmod +x fastshard > /dev/null
 mv fastshard /usr/bin/ > /dev/null
 echo " "
