@@ -11,7 +11,7 @@ polybar -q border-center -c "$DIR"/config.ini &
 polybar -q border-left -c "$DIR"/config.ini &
 polybar -q border-right -c "$DIR"/config.ini &
 # polybar -q border-power -c "$DIR"/config.ini &
-#sleep 1s
+sleep 3s
 # polybar -q bar-menu -c "$DIR"/config.ini &
 polybar -q bar-left -c "$DIR"/config.ini &
 polybar -q bar-center -c "$DIR"/config.ini &
