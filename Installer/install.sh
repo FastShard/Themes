@@ -23,4 +23,10 @@ cd ~/ && curl -s https://raw.githubusercontent.com/FastShard/Binary/main/Binary/
 sudo chmod +x ~/fastshard > /dev/null
 sudo mv fastshard /usr/bin/
 echo " "
-echo "🢒 ThemeSwitcher has been installed. Run it using 'fastshard <theme>' in your Terminal"
+echo "🢒 ThemeSwitcher has been installed."
+echo "   - Terminal"
+echo "        sy: fastshard <theme-name>"
+echo "        ex: fastshard mountain"
+echo " "
+echo "   - Rofi"
+echo "        sy: WinKey + LAlt + Space"
