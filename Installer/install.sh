@@ -24,9 +24,9 @@ sudo chmod +x ~/fastshard > /dev/null
 sudo mv fastshard /usr/bin/
 echo " "
 echo "🢒 ThemeSwitcher has been installed."
+echo " "
 echo "   - Terminal"
 echo "        sy: fastshard <theme-name>"
 echo "        ex: fastshard mountain"
-echo " "
 echo "   - Rofi"
 echo "        sy: WinKey + LAlt + Space"
