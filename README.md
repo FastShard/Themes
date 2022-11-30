@@ -76,3 +76,45 @@
       In your Terminal type `fastshard <theme>`
       
       Ex. `fastshard hord`
+      
+<br />
+
+# Keybinds
+
+1. APPS
+
+   ```
+   LAlt + T = Alacritty
+   LAlt + SPACE = Rofi
+   ```
+   
+2. WM
+
+   ```
+   WinKey + LAlt + R = Restart BSPWM
+   WinKey + LAlt + Q = Exit BSPWM
+   ```
+
+3. STATES
+
+   ```
+   WinKey + S = Floating Window
+   WinKey + T = Tiling Window
+   WinKey + F = Fullscreen Window
+   WinKey + LShift + T = Pseudo Tiling Window
+   ```
+   
+4. WINDOWS
+
+   ```
+   WinKey + MBLClick = Move Window
+   WinKey + MBRClick = Resize Window
+   ```
+
+5. THEMES
+
+   ```
+   WinKey + LAlt + Space = Theme Selector
+   
+   First Install themes at https://github.com/fastshard/themes
+   ```
