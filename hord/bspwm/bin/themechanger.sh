@@ -2,7 +2,7 @@
 
 selected=$(echo "Hord
 Lotus
-Monochrome" | rofi -dmenu -theme ~/.config/bspwm/rofi/themes/launcher.rasi)
+Catppuccin" | rofi -dmenu -theme ~/.config/bspwm/rofi/themes/launcher.rasi)
 
 echo "$selected"
 
