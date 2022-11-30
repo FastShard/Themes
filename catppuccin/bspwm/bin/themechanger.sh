@@ -15,8 +15,15 @@ then
 fi
 if [ "$selected" = "Lotus" ]
 then
-    fastshard lotus
+    	fastshard lotus
 	curl -s https://raw.githubusercontent.com/FastShard/Discord/main/lotus/custom.css -o ~/.config/BetterDiscord/data/stable/custom.css
+	bspc wm -r
+	exit
+fi
+if [ "$selected" = "Catppuccin" ]
+then
+   	fastshard catppuccin
+	curl -s https://raw.githubusercontent.com/FastShard/Discord/main/cappuccin/custom.css -o ~/.config/BetterDiscord/data/stable/custom.css
 	bspc wm -r
 	exit
 fi
