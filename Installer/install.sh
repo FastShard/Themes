@@ -11,7 +11,7 @@ mkdir ~/.config/fastshard > /dev/null
 
 # Install Themes
 echo "🢒 Installing Themes"
-cd ~/ && git clone -q https://github.com/FastShard/Themes > /dev/null && cd ~/Themes && cp -r * ~/.config/fastshard > /dev/null
+cd ~/ && git clone -q https://github.com/FastShard/Themes && cd ~/Themes && cp -r * ~/.config/fastshard
 rm -rf ~/Themes > /dev/null
 #sudo cp ~/.config/fastshard/lotus/bspwm/bin/themechanger.sh ~/.config/bspwm/bin/
 #sudo cp ~/.config/fastshard/lotus/sxhkd/sxhkdrc ~/.config/sxhkd/
