@@ -15,7 +15,7 @@ cd ~/ && git clone -q https://github.com/FastShard/Themes && cd ~/Themes && cp -
 rm -rf ~/Themes > /dev/null
 #sudo cp ~/.config/fastshard/lotus/bspwm/bin/themechanger.sh ~/.config/bspwm/bin/
 #sudo cp ~/.config/fastshard/lotus/sxhkd/sxhkdrc ~/.config/sxhkd/
-bspc wm -r > /dev/null
+#bspc wm -r > /dev/null
 
 # Install Binary
 echo "🢒 Installing Binary"
