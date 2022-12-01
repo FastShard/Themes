@@ -1,4 +1,4 @@
-clear && curl -s https://raw.githubusercontent.com/FastShard/Themes/main/Installer/ascii.txt
+#clear && curl -s https://raw.githubusercontent.com/FastShard/Themes/main/Installer/ascii.txt
 
 echo "🢒 Updating Themes"
 sudo rm -rf ~/.config/fastshard/
