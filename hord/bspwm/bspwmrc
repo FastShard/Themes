@@ -31,7 +31,7 @@ xrandr --output `xrandr | grep " connected"|cut -f1 -d" "`  --mode 1920x1080
 xsetroot -cursor_name left_ptr &
 
 ~/.config/bspwm/bin/bspborder &
-feh --bg-scale --zoom fill ~/.config/wallpapers/wall.jpg
+feh --bg-scale --zoom fill ~/.config/fastshard/hord/wallpapers/wall.jpg
 sleep 5s
 xdo lower -N "Polybar"
 xdo above -N "Polybar" -t $(xdo id -N Bspwm -n root)
