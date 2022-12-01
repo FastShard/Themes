@@ -50,7 +50,27 @@
     ```bash
     WinKey + LAlt + Space #Then choose The desired THeme you want!
     ```
-      
+     
+    
+<br />
+
+# ⛰️ Mountain
+
+![image](https://user-images.githubusercontent.com/117211251/204980116-baf72bc1-e7d4-4737-9e4a-afc903828f05.png)
+
+
+1. Set Theme (Terminal)
+
+    ```bash
+    fastshard mountain
+    ```
+    
+1. Set Theme (Rofi)
+
+    ```bash
+    WinKey + LAlt + Space #Then choose The desired THeme you want!
+    ```
+     
     
 <br />
 
@@ -78,6 +98,8 @@
       Ex. `fastshard hord`
       
 <br />
+
+
 
 # Keybinds
 
