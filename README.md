@@ -41,7 +41,7 @@
 1. Install the Themes and the Binary
 
     ```bash
-    sudo clear && curl -s https://raw.githubusercontent.com/FastShard/Themes/main/Installer/install.sh | sh
+    sudo clear && curl -s https://raw.githubusercontent.com/FastShard/Themes/main/Installer/install.sh | bash
     ```
 <br />
 
