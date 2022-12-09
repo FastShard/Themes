@@ -37,4 +37,3 @@ sleep 5s
 #xdo lower -N "Polybar"
 #xdo above -N "Polybar" -t $(xdo id -N Bspwm -n root)
 sxhkd &
-killall -9 bspborder
