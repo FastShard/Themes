@@ -33,7 +33,7 @@ picom
 xsetroot -cursor_name left_ptr &
 
 #~/.config/bspwm/bin/bspborder &
-feh --bg-scale --zoom fill ~/.config/fastshard/minimal/wallpapers/wall.png
+feh --bg-scale --zoom fill ~/.config/fastshard/minimal/wallpapers/wall.jpg
 sleep 5s
 #xdo lower -N "Polybar"
 #xdo above -N "Polybar" -t $(xdo id -N Bspwm -n root)
