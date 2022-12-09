@@ -4,9 +4,9 @@
 #
 # Yes, this is stolen from gk.
 
-outer='0x0f0f0f'   # outer
-inner1='0x222222'  # focused
-inner2='0x222222' # normal
+outer='0x090B0F'   # outer
+inner1='0x2C3649'  # focused
+inner2='0x2C3649' # normal
 
 trap 'bspc config border_width 0; kill -9 -$$' INT TERM
 
