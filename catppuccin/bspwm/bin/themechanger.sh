@@ -3,8 +3,7 @@
 selected=$(echo "Hord
 Lotus
 Catppuccin
-Mountain
-Minimal" | rofi -dmenu -theme ~/.config/bspwm/rofi/themes/launcher.rasi)
+Mountain" | rofi -dmenu -theme ~/.config/bspwm/rofi/themes/launcher.rasi)
 
 echo "$selected"
 
@@ -36,11 +35,3 @@ then
 	bspc wm -r
 	exit
 fi
-if [ "$selected" = "Minimal" ]
-then
-   	fastshard minimal
-	curl -s https://raw.githubusercontent.com/FastShard/Discord/main/minimal/custom.css -o ~/.config/BetterDiscord/data/stable/custom.css
-	bspc wm -r
-	exit
-fi
- 
