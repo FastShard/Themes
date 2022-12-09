@@ -40,7 +40,7 @@ context = ctrl+shift+period
 [urgency_low]
 timeout = 2
 background = "#090B0F"
->><	foreground = "#c7c6ce"
+foreground = "#c7c6ce"
 frame_color = "#090B0F"
 
 [urgency_normal]
