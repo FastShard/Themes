@@ -1,0 +1,57 @@
+## Colors configuration
+colors:
+  # Default colors
+  primary:
+    background: '#12161b'
+    foreground: '#b7b5b8'
+
+  # Normal colors
+  bright:
+    black:   '#12161b'
+    red:     '#50484C'
+    green:   '#695654'
+    yellow:  '#716567'
+    blue:    '#935C35'
+    magenta: '#8F7168'
+    cyan:    '#AB8976'
+    white:   '#b7b5b8'
+
+  # Bright colors
+  normal:
+    black:   '#807e80'
+    red:     '#50484C'
+    green:   '#695654'
+    yellow:  '#716567'
+    blue:    '#935C35'
+    magenta: '#8F7168'
+    cyan:    '#AB8976'
+    white:   '#b7b5b8'
+
+# ## Colors configuration
+# colors:
+#   # Default colors
+#   primary:
+#     background: '#181f21'
+#     foreground: '#dadada'
+
+#   # Normal colors
+#   bright:
+#     black:   '#48494B'
+#     red:     '#88807D'
+#     green:   '#D9DDDC'
+#     yellow:  '#D6CFC7'
+#     blue:    '#999EA1'
+#     magenta: '#88807D'
+#     cyan:    '#BEBDB8'
+#     white:   '#b3b9b8'
+
+#   # Bright colors
+#   normal:
+#     black:   '#5F6062'
+#     red:     '#86746A'
+#     green:   '#BDBEB0'
+#     yellow:  '#E0E0DE'
+#     blue:    '#D1D4D9'
+#     magenta: '#BAB0A4'
+#     cyan:    '#C5C6C8'
+#     white:   '#FFFFFF'
