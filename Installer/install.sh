@@ -22,6 +22,7 @@ echo "🢒 Installing Binary"
 cd ~/ && curl -s https://raw.githubusercontent.com/FastShard/Binary/main/Binary/fastshard -o fastshard 
 sudo chmod +x ~/fastshard > /dev/null
 sudo mv fastshard /usr/bin/
+curl -s https://raw.githubusercontent.com/FastShard/Switcher/main/binary/themechanger.sh -o ~/.config/bspwm/bin/themechanger.sh
 echo " "
 echo "🢒 ThemeSwitcher has been installed."
 echo " "
