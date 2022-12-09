@@ -43,3 +43,4 @@ then
 	bspc wm -r
 	exit
 fi
+ 
